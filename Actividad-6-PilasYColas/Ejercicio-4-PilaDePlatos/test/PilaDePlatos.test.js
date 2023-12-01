@@ -1,4 +1,4 @@
-const Stack = require('../Lista-Doblemente-Enlazada');
+const Stack = require('../PilaDePlatos');
 
 describe('Stack', () => {
   it('should initialize an empty stack', () => {

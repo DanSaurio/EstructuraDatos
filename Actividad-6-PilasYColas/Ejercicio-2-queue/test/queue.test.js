@@ -1,4 +1,4 @@
-const { Queue } = require('../Deteccion');  // Ajusta la ruta del archivo según tu estructura de carpetas
+const { Queue } = require('../queue');  // Ajusta la ruta del archivo según tu estructura de carpetas
 
 describe('Queue', () => {
   it('should initialize an empty queue', () => {

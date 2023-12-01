@@ -1,4 +1,4 @@
-const { PriorityQueue } = require('../Lista-Enlazada-Unica');  // Ajusta la ruta del archivo según tu estructura de carpetas
+const { PriorityQueue } = require('../AtencionAlCliente');  // Ajusta la ruta del archivo según tu estructura de carpetas
 
 describe('PriorityQueue', () => {
   it('should initialize an empty priority queue', () => {
